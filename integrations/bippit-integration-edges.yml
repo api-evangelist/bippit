@@ -1,0 +1,22 @@
+edges:
+- partner_name: UK Open Banking
+  partner: null
+  type: contract
+  channel: regulator-register
+  relationship: standard-participant
+  direction: partner-built
+  evidence: https://www.openbanking.org.uk/regulated-providers/bippit-ltd/
+  contract_reference:
+    register: UK Open Banking regulated providers (OBL directory)
+    spec_file: null
+    role: Third Party Providers
+    registered_name: Bippit Ltd
+    register_id: https://register.fca.org.uk/ShPo_FirmDetailsPage?id=0010X00004WiTcfQAF
+    matched_domain: bippit.com
+    api_families: null
+    detected_by: sweep-standard-registers.py
+    detected: '2026-10-12'
+generated: '2026-10-12'
+method: searched
+checked:
+- https://www.openbanking.org.uk/regulated-providers/bippit-ltd/
